@@ -1,0 +1,7 @@
+com.example.personal_portfolio.app-debug-0 C:\Users\anjus\Downloads\personal_portfolio_flutter\personal_portfolio\android\app\src\debug\res
+com.example.personal_portfolio.app-main-1 C:\Users\anjus\Downloads\personal_portfolio_flutter\personal_portfolio\android\app\src\main\res
+com.example.personal_portfolio.app-pngs-2 C:\Users\anjus\Downloads\personal_portfolio_flutter\personal_portfolio\build\app\generated\res\pngs\debug
+com.example.personal_portfolio.app-updated_navigation_xml-3 C:\Users\anjus\Downloads\personal_portfolio_flutter\personal_portfolio\build\app\generated\updated_navigation_xml\debug
+com.example.personal_portfolio.app-packageDebugResources-4 C:\Users\anjus\Downloads\personal_portfolio_flutter\personal_portfolio\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.personal_portfolio.app-packageDebugResources-5 C:\Users\anjus\Downloads\personal_portfolio_flutter\personal_portfolio\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.personal_portfolio.app-debug-6 C:\Users\anjus\Downloads\personal_portfolio_flutter\personal_portfolio\build\app\intermediates\merged_res\debug\mergeDebugResources
